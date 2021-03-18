@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="24px" viewBox="0 0 22 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>swoon-account</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="03-organism/global/l/header-default_TP-Swoon_Option-2" transform="translate(-753.000000, -19.000000)">
+            <g id="swoon-account" transform="translate(742.000000, 8.000000)" filter="url(#filter-1)">
+                <g>
+                    <path d="M31.52,33.96 L31.52,30.52 C31.52,27.8248504 29.3351496,25.64 26.64,25.64 L16.88,25.64 C14.1848504,25.64 12,27.8248504 12,30.52 L12,33.96" id="Path" stroke="#000000" stroke-width="2"></path>
+                    <circle id="Oval" stroke="#000000" stroke-width="2" cx="21.76" cy="16.88" r="4.88"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="27px" viewBox="0 0 29 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>swoon-bag</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="03-organism/global/l/header-default_TP-Swoon_Option-2" transform="translate(-841.000000, -18.000000)">
+            <g id="Group" transform="translate(742.000000, 8.000000)">
+                <g transform="translate(94.000000, 0.000000)" id="swoon-bag" filter="url(#filter-1)">
+                    <g id="Group" transform="translate(6.000000, 11.000000)" stroke="#000000" stroke-width="2">
+                        <circle id="Oval" cx="9.76" cy="23.4" r="1.22"></circle>
+                        <circle id="Oval" cx="23.18" cy="23.4" r="1.22"></circle>
+                        <path d="M-1.74615877e-12,1.82964754e-13 L4.88,1.82964754e-13 L8.1496,16.3358 C8.3798591,17.4950825 9.40788841,18.3226461 10.5896,18.3 L22.448,18.3 C23.6297116,18.3226461 24.6577409,17.4950825 24.888,16.3358 L26.84,6.1 L6.1,6.1" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
